@@ -4,4 +4,4 @@ npm create vite@latest react-project -- --template react
 remove react dependencies from package.json and save
 npm install --save-exact react@rc react-dom@rc
 npm install
-npm dev run
+npm run dev
